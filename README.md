@@ -1,2 +1,1 @@
 # Zinstaller
-no identy
